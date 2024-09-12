@@ -10,8 +10,6 @@ import numpy as np
 
 # 데이터 불러오기 (CSV 또는 Excel 파일로 가정)
 data = pd.read_csv('hospital_data.csv')
-# 또는 엑셀 파일인 경우
-# data = pd.read_excel('hospital_data.xlsx')
 
 # 데이터 확인
 print(data.head())
