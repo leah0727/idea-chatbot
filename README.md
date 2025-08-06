@@ -1,5 +1,10 @@
 # AI Idea Contest: Chatbot-Based Mental Health Monitoring System for the Elderly
 
+<a href="https://yeongeun-ra-2025.netlify.app/files/3_df_pres.pdf">
+  <img src="https://img.shields.io/badge/Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader" width="250">
+</a>
+
+
 ## Overview
 - Proposed an AI-driven chatbot system designed to monitor and support the mental health of elderly individuals living alone, specifically addressing dementia and depression.
 - Motivated by factors such as the aging population, mental health challenges among the elderly, limitations of the current healthcare system, the economic efficiency of digital healthcare advancements, and the increasing use of electronic devices among seniors.
